@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 if__name__==__"main__":
     """Print the hidden alphabet order"""
